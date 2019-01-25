@@ -6,7 +6,7 @@ Last edited: 1/25/2019
 
 ## Acknowledgements 
 
-This repository is built on top of Peter Jan's work. He helped Mark setup for his class in 2017. I updated some stuff in 2018. So shout out to Peter Jan who did the dirty work in the early days. Also thank you to Mark Bedillion who is teaching a great class in Advanced Control and System Integration. 
+This repository is built on top of Peter Jan's work. https://github.com/Peter-Jan/crazyflie_ws He helped Mark setup for his class in 2017. I updated some stuff in 2018. So shout out to Peter Jan who did the dirty work in the early days. Also thank you to Mark Bedillion who is teaching a great class in Advanced Control and System Integration. 
 
 ## Note to ACSI 2018 Students!!
 
