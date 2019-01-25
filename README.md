@@ -1,6 +1,6 @@
 # Crazyflie Project Environment
 
-Author: Wooshik Kim & Austin Wang, TA for ACSI
+Author: Wooshik Kim & Austin Wang TA for ACSI
 
 Last edited: 1/25/2019 
 
